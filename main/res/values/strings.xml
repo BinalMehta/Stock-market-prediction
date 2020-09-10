@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stock_market_prediction</string>
+    <string name="stock_symbol_hint">Stock symbol here</string>
+    <string name="start_date_hint">Start date here</string>
+    <string name="end_date_hint">End date here</string>
+    <string name="button_text">Predict </string>
+    <string name="results_text">Result here</string>
+
+</resources>
